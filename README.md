@@ -1,0 +1,11 @@
+# Tessera for Linux — Official Downloads
+
+**Publisher:** Case Sensitive Computers, LLC
+
+Tessera is a block-placement game with Endless and Daily Challenge modes, six themed worlds plus Original, and colorful line-clear effects.
+
+This repository is a **binary-only distribution channel**, not the Tessera development source. Verified downloads, checksums and release notes appear under **Releases** after publication.
+
+The initial Linux Early Access edition is free to download and play, with CSC house ads and **no payment or sign-in requirements**. Cross-platform Live Duel, paid ad removal, and purchase restoration are not part of this initial Early Access build. Read the release notes for the exact feature list and limitations.
+
+Company: https://casesensitivecomputers.com

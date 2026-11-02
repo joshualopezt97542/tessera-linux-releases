@@ -1,0 +1,4 @@
+This portable archive is intended for Linux x86-64 and includes a bundled Java runtime.
+Extract the archive into a directory of your choice and run:
+    ./run-tessera.sh
+The archive is not a system package; uninstall by removing the extracted folder.

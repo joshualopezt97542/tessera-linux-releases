@@ -1,0 +1,8 @@
+.unpacked/
+.qa-home/
+.launch.log
+.ad-smoke.log
+*.png
+*.deb
+*.tar.gz
+SHA256SUMS.txt
