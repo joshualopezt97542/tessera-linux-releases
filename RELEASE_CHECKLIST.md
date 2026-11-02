@@ -7,8 +7,8 @@
 - [x] Isolated production CSC house-ad catalog deployed separately from Stripe
 - [x] Early Access build configuration: no test billing or test multiplayer buttons
 - [x] Separate early-access local-save directory
-- [ ] Installable binary, checksum and portable archive built and verified
-- [ ] UI/advertisement QA in isolated user profile
+- [x] Installable binary, checksum and portable archive built and verified
+- [x] UI/advertisement QA in isolated user profile
 - [ ] Owner approves Early Access scope and public privacy language
 - [ ] Publish on an official, owner-controlled download page or GitHub Releases
 
