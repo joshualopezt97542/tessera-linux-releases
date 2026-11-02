@@ -9,8 +9,9 @@
 - [x] Separate early-access local-save directory
 - [x] Installable binary, checksum and portable archive built and verified
 - [x] UI/advertisement QA in isolated user profile
-- [ ] Owner approves Early Access scope and public privacy language
-- [ ] Publish on an official, owner-controlled download page or GitHub Releases
+- [x] Owner approved publication of v0.6.0-beta1 on 2026-11-02
+- [x] Public GitHub Release published, with anonymous downloads and verified checksums
+- [ ] Finalize public privacy policy language after legal/contact review (current notice is labeled DRAFT)
 
 ## Full paid/cross-platform production version
 
