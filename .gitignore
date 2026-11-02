@@ -6,3 +6,7 @@
 *.deb
 *.tar.gz
 SHA256SUMS.txt
+
+.qa-061-home/
+.portable-061-build/
+SHA256SUMS_0.6.1-beta1.txt
