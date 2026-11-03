@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest a Tessera Linux improvement
+labels: ['enhancement']
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem or experience should be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Proposed behavior
+    validations:
+      required: true

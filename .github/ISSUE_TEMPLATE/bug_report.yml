@@ -1,0 +1,58 @@
+name: Linux Early Access bug report
+description: Report a reproducible problem with the free Tessera Linux desktop beta
+title: '[Linux] '
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for testing Tessera. Do not post passwords, tokens, payment data, personal contact details, or private screenshots."
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      placeholder: v0.6.1-beta1
+    validations:
+      required: true
+  - type: input
+    id: distro
+    attributes:
+      label: Linux distribution and version
+      placeholder: Linux Mint 22.2, Ubuntu 24.04, etc.
+    validations:
+      required: true
+  - type: input
+    id: display
+    attributes:
+      label: Window resolution and desktop environment
+      placeholder: 1920x1080, Cinnamon
+  - type: dropdown
+    id: install
+    attributes:
+      label: Install format
+      options:
+        - Debian/Ubuntu .deb
+        - Portable .tar.gz
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: '1. Open Tessera\n2. Start Endless mode\n3. ...'
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional information
+      description: If you attach screenshots or logs, review them for private information first.
